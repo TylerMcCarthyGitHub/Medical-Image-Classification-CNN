@@ -1,5 +1,5 @@
 # Medical-Image-Classification-CNN
-An implementation of the scientific paper  Medical Image Classification with Convolutional Neural Networks.
+An implementation of the scientific paper  [Medical Image Classification with Convolutional Neural Networks](https://ieeexplore.ieee.org/iel7/7056237/7064265/07064414.pdf?casa_token=UXUPIF9mudIAAAAA:xtEddGglzB-nGlTIjH0UrM3orRgYjjWlqYIowWbj8oNdQWsQmDPUdy9hvGWsqFx9htejav_E).
 
 ## Data
 ### Original source:
